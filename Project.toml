@@ -1,7 +1,10 @@
 [deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
 PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
 ResumableFunctions = "c5292f4c-5179-55e1-98c5-05642aab7184"
 SimJulia = "428bdadb-6287-5aa5-874b-9969638295fd"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 
 [compat]
 julia = "1.5"
